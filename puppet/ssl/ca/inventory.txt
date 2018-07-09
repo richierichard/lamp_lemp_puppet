@@ -1,0 +1,3 @@
+0x0001 2018-07-04T13:00:19UTC 2023-07-04T13:00:19UTC /CN=Puppet CA: puppetserver.richierichard.com
+0x0002 2018-07-04T13:03:52UTC 2023-07-04T13:03:52UTC /CN=puppetserver.richierichard.com
+0x0003 2018-07-04T13:04:58UTC 2023-07-04T13:04:58UTC /CN=puppetclient.richierichard.com
